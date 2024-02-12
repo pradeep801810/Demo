@@ -3,13 +3,11 @@ package Com.DemoJenkins;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class DemoTest {
+public class DemoTest2 {
 	@Test
-	public void m1()
-	{
-		Reporter.log("TC1 is passed",true);
-	}
+	public void m2() {
+		Reporter.log("TC2 is passed",true);
 	
 	}
 
-
+}
