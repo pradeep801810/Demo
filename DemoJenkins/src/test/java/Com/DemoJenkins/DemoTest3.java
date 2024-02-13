@@ -8,6 +8,7 @@ public class DemoTest3 {
 	public void m3()
 	{
 		Reporter.log("TC3 is passed",true);
+		Reporter.log("Tc3 is updated",true);
 	}
 
 }
